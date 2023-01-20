@@ -22,19 +22,12 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Motion Planet</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
-        <span className="font-extrabold text-white">
-          madness of the metaverse
-        </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        <span className="font-extrabold text-white">Motion Planet</span> is the best visual content design company in the Arab and European countries.
+        {' '}
+        We provide the best services, such as design of all kinds, programming, videos such as motion graphics
+ and montage in the Arab world for government agencies and companies. We specialize in working in many sectors,
+ starting from the financial sector, banking, space, hospitality sectors, restaurants, shops and hotels,
+ and ending with the technology and electronic security sectors.
       </motion.p>
 
       <motion.img

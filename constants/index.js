@@ -2,27 +2,27 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'motion graphic',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'kinds of design',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'visual identity',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Web programmers',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'montages',
   },
 ];
 
@@ -34,17 +34,17 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    // imgUrl: '/vrpano.svg',
+    // title: 'A new world',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'A cinematic motion graphic video in the form of a short story.',
   },
-  {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
-    subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
-  },
+  // {
+  //   imgUrl: '/headset.svg',
+  //   title: 'More realistic',
+  //   subtitle:
+  //       'In the latest update, your eyes are narrow, making the world more realistic than ever',
+  // },
 ];
 
 export const insights = [

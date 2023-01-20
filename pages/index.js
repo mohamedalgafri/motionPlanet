@@ -11,7 +11,7 @@ const Home = () => (
       <Explore />
     </div>
     <div className="relative">
-      <GetStarted />
+      {/* <GetStarted /> */}
       <div className="gradient-04 z-0" />
       <WhatsNew />
     </div>
