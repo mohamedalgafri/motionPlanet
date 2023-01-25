@@ -20,7 +20,8 @@ const Insights = () => (
       <TitleText title={<>Insight about the motion graphic in Motion Planet</>} textStyles="text-center" />
       <div className="mt-[50px] flex flex-col gap-[30px]">
         {insights.map((item, index) => (
-          <InsightCard key={`insight-${index}`} {...item} index={index + 1} />
+         <InsightCard key={`insight-${index}`} {...item} index={index + 1} />
+    
         ))}
       </div>
     </motion.div>

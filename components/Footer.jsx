@@ -19,11 +19,11 @@ const Footer = () => (
         <h4 className="font-bold md:text-[64px] text-[44px] text-white">
           Enter the Motion Planet
         </h4>
-        <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
+        <a href='https://instagram.com/motion__planet?igshid=YmMyMTA2M2Y=' target="_blank" type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
           <span className="font-normal text-[16px] text-white">
             Enter Motion Planet
           </span>
-        </button>
+        </a>
       </div>
 
       <div className="flex flex-col">
@@ -39,12 +39,15 @@ const Footer = () => (
 
           <div className="flex gap-4">
             {socials.map((social) => (
+              <a href={social.urlS} target="_blank">
               <img
                 key={social.name}
                 src={social.url}
                 alt={social.name}
                 className="w-[24px] h-[24px] object-contain cursor-pointer"
               />
+              </a>
+
             ))}
           </div>
         </div>

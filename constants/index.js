@@ -49,40 +49,62 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: '/i7.JPEG',
+    title: 'Our work in the motion graphics industry (drawing + animation)',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        '',
+        url:'https://www.instagram.com/reel/Clv252lP4Sk/?utm_source=ig_web_copy_link'
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: '/i2.JPEG',
+    title: 'Our work in social media designs',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        '',
+        url:'https://www.instagram.com/p/Chpi1FUj2vp/?utm_source=ig_web_copy_link'
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: '/i1.JPEG',
+    title: 'Our business is to create a commercial identity from scratch',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        '',
+        url:'https://www.instagram.com/p/ChmVMGVs2Ak/?utm_source=ig_web_copy_link'
   },
+  {
+    imgUrl: '/i5.JPEG',
+    title: 'Our business in moving logos',
+    subtitle:
+        '',
+        url:'https://www.instagram.com/tv/CkbHi5VLeGb/?utm_source=ig_web_copy_link'
+  },
+  {
+    imgUrl: '/i4.JPEG',
+    title: 'Web Design & Programming',
+    subtitle:
+        '',
+        url:''
+  }
 ];
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: 'Email',
+    url: '/lE.png',
+    urlS: 'mailto:mohyalgefary@gmail.com',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    urlS: 'https://www.linkedin.com/in/mohy-ahmed-8a7907255',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    urlS:'https://instagram.com/motion__planet?igshid=YmMyMTA2M2Y='
+    
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'whatsapp',
+    url: '/lW.png',
+    urlS:'https://wa.me/+970597725606'
   },
 ];
