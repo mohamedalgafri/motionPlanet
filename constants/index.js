@@ -63,7 +63,7 @@ export const insights = [
         url:'https://www.instagram.com/p/Chpi1FUj2vp/?utm_source=ig_web_copy_link'
   },
   {
-    imgUrl: '/i1.JPEG',
+    imgUrl: '/i1.png',
     title: 'Our business is to create a commercial identity from scratch',
     subtitle:
         '',
